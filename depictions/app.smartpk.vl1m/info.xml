@@ -1,10 +1,10 @@
 <package>
-	<id>com.supermamon.oldpackage</id>
-	<name>Old Package</name>
-	<version>1.0.0-1</version>
+	<id>app.smartpk.vl1m</id>
+	<name>SmartPK Võ Lâm Truyền Kỳ 1 Mobile</name>
+	<version>1.0.0</version>
 	<compatibility>
 		<firmware>
-			<maxiOS>7.0</maxiOS>
+			<maxiOS>14.8</maxiOS>
 			<otherVersions>unsupported</otherVersions>
 			<!--
 			for otherVersions, you can put either unsupported or unconfirmed
@@ -13,11 +13,11 @@
 	</compatibility>
 	<dependencies></dependencies>
 	<descriptionlist>
-		<description>This is an old package. Requires iOS 7 and below..</description>
+		<description>Bản cài đặt SmartPK Võ Lâm Truyền Kỳ Mobile. Chỉ hỗ trợ iOS 14.x trở xuống.</description>
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
-		<change>Initial release</change>
+		<change>Phiên bản đầu tiên</change>
 	</changelog>
 	<links></links>
 </package>
